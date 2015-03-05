@@ -1,0 +1,12 @@
+Begin Object Class=MaterialInstanceConstant Name="M_Background_Night_Inst"
+   Begin Object Class=SceneThumbnailInfoWithPrimitive Name="SceneThumbnailInfoWithPrimitive_2"
+   End Object
+   Begin Object Name="SceneThumbnailInfoWithPrimitive_2"
+   End Object
+   Parent=Material'/Game/ArchVis/Materials/M_Background_Mat.M_Background_Mat'
+   ParentLightingGuid=84ADBEAC4DA008D4BF23A19F770D6E64
+   TextureParameterValues(0)=(ParameterName="Background",ParameterValue=Texture2D'/Game/ArchVis/Textures/T_Background_Night_D.T_Background_Night_D',ExpressionGUID=D6C0DA2340A25CB1DD8FA6A77F63E035)
+   ReferencedTextureGuids(0)=F37742FB4A885A4FCBC25ABCD6FC9246
+   ThumbnailInfo=SceneThumbnailInfoWithPrimitive'SceneThumbnailInfoWithPrimitive_2'
+   LightingGuid=21D9095F477F2E25C44B31808DAB7CDE
+End Object
